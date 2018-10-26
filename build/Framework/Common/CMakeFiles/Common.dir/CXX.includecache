@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Framework/Interface/IApplication.hpp
+Interface.hpp
+../Framework/Interface/Interface.hpp
+IRuntimeModule.hpp
+../Framework/Interface/IRuntimeModule.hpp
+
+../Framework/Interface/IRuntimeModule.hpp
+Interface.hpp
+../Framework/Interface/Interface.hpp
+
+../Framework/Interface/Interface.hpp
+
+/Users/shuowang/Developer/GameEngineFromScrach/Framework/Common/main.cpp
+stdio.h
+-
+IApplication.hpp
+/Users/shuowang/Developer/GameEngineFromScrach/Framework/Common/IApplication.hpp
+
